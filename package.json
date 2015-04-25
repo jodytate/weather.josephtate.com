@@ -1,0 +1,24 @@
+{
+  "name": "weather.josephtate.com",
+  "version": "1.0.0",
+  "description": "forms",
+  "main": "app.js",
+  "dependencies": {
+    "gulp": "^3.8.11"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.6.4",
+    "del": "^1.1.1",
+    "gulp": "^3.8.11",
+    "gulp-concat": "^2.5.2",
+    "gulp-filter": "^2.0.2",
+    "gulp-notify": "^2.2.0",
+    "gulp-strip-debug": "^1.0.2",
+    "gulp-util": "^3.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
