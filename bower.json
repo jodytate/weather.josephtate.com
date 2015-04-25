@@ -1,0 +1,21 @@
+{
+  "name": "weather.josephtate.com",
+  "version": "0.0.1",
+  "authors": [
+    "Jody Tate <jody@josephtate.com>"
+  ],
+  "description": "weather fun",
+  "main": "app.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angularjs-geolocation": "~0.1.1",
+    "angular": "~1.x"
+  }
+}
